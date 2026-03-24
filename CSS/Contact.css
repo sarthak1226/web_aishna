@@ -1,0 +1,21 @@
+#contact {
+    background-color: rgb(224, 255, 255);
+    /* Light Cyan */
+    border-radius: 10px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.05);
+    padding: 40px 20px;
+}
+
+#contact h2 {
+    text-align: center;
+    color: rgb(255, 69, 0);
+    /* Orange Red */
+    margin-bottom: 30px;
+}
+
+#contact p {
+    font-size: 1.1em;
+    color: rgb(50, 50, 50);
+    text-align: center;
+    margin-bottom: 15px;
+}

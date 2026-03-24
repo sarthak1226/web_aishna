@@ -1,0 +1,24 @@
+
+#about {
+    background-color: rgb(255, 228, 225);
+    /* Misty Rose */
+    border-radius: 10px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.05);
+    padding: 40px 20px;
+}
+
+#about h2 {
+    text-align: center;
+    color: rgb(128, 0, 128);
+    /* Purple */
+    margin-bottom: 30px;
+}
+
+#about p {
+    font-size: 1.1em;
+    color: rgb(60, 60, 60);
+    max-width: 900px;
+    margin: 0 auto 20px auto;
+    line-height: 1.8;
+}
+
